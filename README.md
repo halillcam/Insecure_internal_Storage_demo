@@ -31,7 +31,7 @@ Basit bir not uygulaması üzerinden, yerel verilerin nasıl güvensiz şekilde 
 - Root erişimi varsa `/data/data/` klasörüne direkt erişim
 - Başka uygulamaların verileri de okunabilir
 
-![adb Komutları](https://i.hizliresim.com/49g3u7u.png)
+![adb Komutları](https://i.hizliresim.com/3syeix8.png)
 
 ## 🛡️ Nasıl Korunulur?
 
