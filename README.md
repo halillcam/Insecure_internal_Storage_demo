@@ -14,7 +14,7 @@ Basit bir not uygulaması üzerinden, yerel verilerin nasıl güvensiz şekilde 
 - Kullanıcı notları **SharedPreferences**'ta şifresiz saklanıyor
 - Hassas bilgiler (şifreler, tokenlar) düz metin olarak görünür
 
-![SharedPreferences Logic](https://i.hizliresim.com/49g3u7u.png)
+![SharedPreferences Logic](https://i.hizliresim.com/g8ilxfz.png)
 
 ### 2. **debuggable=true**
 - Manifest'te `debuggable="true"` ayarı aktif
